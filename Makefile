@@ -1,5 +1,5 @@
 CPABE: main.c
-	gcc main.c -o fcapbe -L. -lpbc -lgmp
+	gcc main.c -o fcapbe
 
 .PHONY: clean
 
